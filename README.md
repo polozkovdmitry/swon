@@ -6,7 +6,7 @@ HSE FES year project curated by (the one and only) bb
 ## references normal pdf
 * [paper w/ full derivation](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/stahl96.pdf)
 * [handnotes bb's seminar derivation (2021)](https://drive.google.com/file/d/1V2sY55Jv1bxGcaIE1zOC5hTBxDLMuKQX/view?usp=drivesdk)
-* [video recording bb's seminar derivation](https://disk.yandex.ru/d/acDdZZgWPFxEeQ/Семинар/БПМИ218 Демешев 2022-11-07T13-18-25Z.mp4)
+* [video recording bb's seminar derivation](https://disk.yandex.ru/d/acDdZZgWPFxEeQ/Семинар/БПМИ218%20Демешев%202022-11-07T13-18-25Z.mp4)
 * [3b1b video derivation & more](https://youtu.be/cy8r7WSuT1I)
 * wild mathing videos
 
