@@ -3,6 +3,11 @@ statistics w/o nonsense
 
 HSE FES year project curated by (the one and only) bb
 
+## aims
+* create a video (possibly with voiceover) in a Python animation library Manim dedicaded to the density of a normal random variable
+* the proof is from Herschel-Maxwell axioms
+* Mamikon theore explained along the way  
+
 ## references normal pdf
 * [paper w/ full derivation](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/stahl96.pdf)
 * [handnotes bb's seminar derivation (2021)](https://drive.google.com/file/d/1V2sY55Jv1bxGcaIE1zOC5hTBxDLMuKQX/view?usp=drivesdk)
@@ -17,3 +22,8 @@ HSE FES year project curated by (the one and only) bb
 * [text in RU](https://habr.com/ru/company/yandex_praktikum/blog/578910/)
 * [official examples](https://habr.com/ru/company/yandex_praktikum/blog/578910/)
 * [3b1b examples](https://3b1b.github.io/manim/getting_started/example_scenes.html)
+
+## results
+* see files script.tex and code.ipynb for the script of a video and a code for a 1-minute segment
+* animating tuurned out to be pretty tidious and time consuming
+* it's worthy of mention that Chat-GPT knows Mamin CE (community edition) pretty well 
