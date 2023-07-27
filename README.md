@@ -4,9 +4,10 @@ statistics w/o nonsense
 HSE FES year project curated by (the one and only) bb
 
 ## aims
-* create a video (possibly with voiceover) in a Python animation library Manim dedicaded to the density of a normal random variable
+* create a video (possibly with voiceover) in a Python animation library called Manim
+* the video is dedicaded to the density of a normal distribution
 * the proof is from Herschel-Maxwell axioms
-* Mamikon theore explained along the way  
+* Mamikon theorem is explained along the way  
 
 ## references normal pdf
 * [paper w/ full derivation](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/stahl96.pdf)
