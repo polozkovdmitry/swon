@@ -25,6 +25,6 @@ HSE FES year project curated by (the one and only) bb
 * [3b1b examples](https://3b1b.github.io/manim/getting_started/example_scenes.html)
 
 ## results
-* see files ``script.tex`` and ``code.ipynb`` for the script of a video and a code for a 1-minute segment (the segment is [here](https://drive.google.com/file/d/1o0Q9PkbwkXaGB7GKF_-5It5MkZSC5Cvi/view?usp=sharing) )
+* see files ``script.tex`` and ``code.ipynb`` for the script of a video and the code for a 1-minute segment (the segment is [here](https://drive.google.com/file/d/1o0Q9PkbwkXaGB7GKF_-5It5MkZSC5Cvi/view?usp=sharing) )
 * animating tuurned out to be pretty tidious and time consuming
 * it's worthy of mention that Chat-GPT knows Mamin CE (community edition) pretty well 
